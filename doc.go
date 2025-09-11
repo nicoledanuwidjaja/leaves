@@ -44,8 +44,8 @@ predict_breast_cancer_model.go:
 		"fmt"
 
 		"github.com/dmitryikh/leaves"
-		"github.com/dmitryikh/leaves/mat"
-		"github.com/dmitryikh/leaves/util"
+		"github.com/nicoledanuwidjaja/leaves/mat"
+		"github.com/nicoledanuwidjaja/leaves/util"
 	)
 
 	func main() {
@@ -142,8 +142,8 @@ predict_iris_model.go:
 		"fmt"
 
 		"github.com/dmitryikh/leaves"
-		"github.com/dmitryikh/leaves/mat"
-		"github.com/dmitryikh/leaves/util"
+		"github.com/nicoledanuwidjaja/leaves/mat"
+		"github.com/nicoledanuwidjaja/leaves/util"
 	)
 
 	func main() {
